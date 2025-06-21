@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EWC-BEP-Product-Mix-Calculator/static/css/main.f0d08ab0.css",
+    "main.js": "/EWC-BEP-Product-Mix-Calculator/static/js/main.1ec66450.js",
+    "static/js/453.2fdbe423.chunk.js": "/EWC-BEP-Product-Mix-Calculator/static/js/453.2fdbe423.chunk.js",
+    "index.html": "/EWC-BEP-Product-Mix-Calculator/index.html",
+    "main.f0d08ab0.css.map": "/EWC-BEP-Product-Mix-Calculator/static/css/main.f0d08ab0.css.map",
+    "main.1ec66450.js.map": "/EWC-BEP-Product-Mix-Calculator/static/js/main.1ec66450.js.map",
+    "453.2fdbe423.chunk.js.map": "/EWC-BEP-Product-Mix-Calculator/static/js/453.2fdbe423.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d08ab0.css",
+    "static/js/main.1ec66450.js"
+  ]
+}
